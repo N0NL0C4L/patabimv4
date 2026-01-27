@@ -1,0 +1,1 @@
+The public key must copied into __patabim__/ folder as __patabim__/_ptbm.pem.
