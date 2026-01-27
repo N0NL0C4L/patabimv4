@@ -27,7 +27,7 @@ cp keys/public_key.pem __patabim__/_ptbm.pem
 python patabimv4.py pack-py input.py output_packed.py keys/private_key.pem
 
 ```
-# OR
+## OR
 ```bash
 python patabimv4.py pack-bin input.py output_packed keys/private_key.pem
 
