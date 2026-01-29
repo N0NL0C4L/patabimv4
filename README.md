@@ -39,7 +39,7 @@ python patabimv4.py pack-bin input.py output_packed keys/private_key.pem
 If you are here to decompile this, try it on. If you can, contact me via:
 
 * **Discord:** `@n0nl0c4l`
-* **ProtonMail:** `n0nl0c4l@protonmail.com`
+* **E-Mail:** `n0nl0c4l@protonmail.com`
 * **Telegram:** `t.me/n0nl0c4l`
 
 
